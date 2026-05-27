@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsuave",
+        "uuid": 21228898,
+        "checksum": "eku6ai"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
